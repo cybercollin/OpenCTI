@@ -1,7 +1,7 @@
 <h1>OpenCTI: Researching Malware and APT Groups</h1>
 
 <h2>Description</h2>
-While working as a SOC analyst, my manager requests me to spend some time researching a specific piece of malware and an advanced persistent threat group that our organization believes may pose a threat to our clients. OpenCTI is an open-sourced platform designed to provide organisations with the means to manage CTI through the storage, analysis, visualisation and presentation of threat campaigns, malware and IOCs. I shall use OpenCTI to answer several research inquiries:<br/>
+While working as a SOC analyst, my manager requests me to spend some time researching a specific piece of malware and an advanced persistent threat group that our organization believes may pose a threat to our clients. OpenCTI is an open-sourced platform designed to provide organisations with the means to manage CTI through the storage, analysis, visualisation and presentation of threat campaigns, malware and IOCs. I shall use OpenCTI to answer several research inquiries:<br/><br/>
 - What is the earliest date recorded related to the CaddyWiper malware?<br/>
 - Which attack technique is used by the malware for execution?<br/>
 - How many malware relations are linked to this attack technique?<br/>
